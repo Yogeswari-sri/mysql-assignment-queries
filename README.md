@@ -21,19 +21,19 @@ Window Functions
 
 Screenshots
 
-    <img width="1401" height="792" alt="S" src="https://github.com/user-attachments/assets/2c12741b-8563-4f0d-913b-dc31672c34b3" />
+   <img width="1401" height="792" alt="S" src="https://github.com/user-attachments/assets/fd579a8e-c9d7-4bb1-89c8-29574ac7c168" />
+   <img width="1600" height="857" alt="3" src="https://github.com/user-attachments/assets/120123c0-197d-4f29-a7f8-05530ee8d084" />
+<img width="1598" height="852" alt="4" src="https://github.com/user-attachments/assets/68f35fc8-930c-4727-b740-1821e251badf" />
+<img width="1596" height="841" alt="5" src="https://github.com/user-attachments/assets/47a2d5a3-78f5-49ab-a451-767e26fb698b" />
+<img width="1598" height="754" alt="6" src="https://github.com/user-attachments/assets/7ebeebb0-432f-4b9d-ac75-eaa94c31bb5e" />
 
-    <img width="1600" height="849" alt="2" src="https://github.com/user-attachments/assets/f7390b7c-8a45-4bda-bf17-826a55de7419" />
-    <img width="1600" height="857" alt="3" src="https://github.com/user-attachments/assets/67ef61ff-1335-4ce1-a4e1-b518edc206c9" />
-    <img width="1598" height="852" alt="4" src="https://github.com/user-attachments/assets/65a7162b-0e96-49aa-ac77-58eed314403d" />
-    <img width="1596" height="841" alt="5" src="https://github.com/user-attachments/assets/1f79e62e-c48b-42b6-8b2c-6f8fa559d48b" />
-    <img width="1598" height="754" alt="6" src="https://github.com/user-attachments/assets/df4ad0ee-73d0-43b1-b72f-29c1f90ba495" />
-    <img width="1595" height="752" alt="7" src="https://github.com/user-attachments/assets/d487907e-9dc7-429c-bf5b-2b53906f7c14" />
-    <img width="1559" height="661" alt="8" src="https://github.com/user-attachments/assets/81815d6c-4c13-4851-9336-9670fcf4cd9e" />
-    <img width="1591" height="701" alt="9" src="https://github.com/user-attachments/assets/714776ef-5c7b-4b92-87eb-c7b44eb3cad6" />
-    <img width="1580" height="708" alt="11" src="https://github.com/user-attachments/assets/6ffd2667-5410-4727-9d24-038f5bbc081b" />
-    INNER JOIN
-    <img width="1600" height="741" alt="12" src="https://github.com/user-attachments/assets/ffb76adb-4514-4878-a88e-30896a8ebddc" />
+<img width="1595" height="752" alt="7" src="https://github.com/user-attachments/assets/a14f6eac-3e25-47fb-be93-96fa2b2b201b" />
+<img width="1559" height="661" alt="8" src="https://github.com/user-attachments/assets/e4dd9ab5-ee01-4f3d-a65d-e7449692ce6d" />
+<img width="1591" height="701" alt="9" src="https://github.com/user-attachments/assets/9da13845-0e55-4fb7-8dac-03ae054f7a4e" />
+<img width="1580" height="708" alt="11" src="https://github.com/user-attachments/assets/132839d1-213e-43cd-a46c-b49e8be0d96b" />
+<img width="1580" height="708" alt="11" src="https://github.com/user-attachments/assets/0d5afba1-d5a4-4ce3-af36-420a57a1325a" />
+INNER JOIN
+<img width="1596" height="637" alt="13" src="https://github.com/user-attachments/assets/095c0a77-0ccd-4b7e-b5f2-ee04500c99bd" />
     RIGHT JOIN
     <img width="1596" height="734" alt="u" src="https://github.com/user-attachments/assets/b090f54d-cb33-4567-a8cd-8f5bd25a6b05" />
     LEFT JOIN
