@@ -42,7 +42,6 @@ Screenshots
     <img width="1598" height="685" alt="c" src="https://github.com/user-attachments/assets/e54dd443-e7d7-45c9-8d65-e77c8132e521" />
     SELF JOIN
     <img width="1600" height="657" alt="self" src="https://github.com/user-attachments/assets/9ec80855-155d-477d-97bf-899b3a319637" />
-
     
     WINDOW FUNCTIONS
     The WINDOW function is a type of analytic function used in SQL (and also in DAX/Power BI with similar concepts) to perform calculations across a set of rows that are related to the current row, without collapsing them into a single output like aggregate functions do.
