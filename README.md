@@ -2,25 +2,25 @@
 
 "SQL queries and screenshots for Data Analytics Module‑3 Assignment 2, covering clauses, operators, sorting, grouping, aggregate functions, and joins in MySQL."
 
-MySQL-Assignment-2/
-│
-├── README.md
-├── Queries/
-│   ├── distinct_values.sql
-│   ├── alias.sql
-│   ├── where_clause.sql
-│   ├── order_by.sql
-│   ├── limit.sql
-│   ├── aggregate_functions.sql
-│   ├── group_by.sql
-│   ├── having.sql
-│   ├── inner_join.sql
-│   ├── left_join.sql
-│   ├── right_join.sql
-│   ├── cross_join.sql
-│   └── self_join.sql
-│
-└── Screenshots/
+
+Queries
+distinct_values.sql
+alias.sql
+ where_clause.sql
+order_by.sql
+limit.sql
+aggregate_functions.sql
+group_by.sql
+ having.sql
+inner_join.sql
+left_join.sql
+right_join.sql
+cross_join.sql
+self_join.sql
+Window Functions
+
+Screenshots
+
     <img width="1401" height="792" alt="S" src="https://github.com/user-attachments/assets/2c12741b-8563-4f0d-913b-dc31672c34b3" />
 
     <img width="1600" height="849" alt="2" src="https://github.com/user-attachments/assets/f7390b7c-8a45-4bda-bf17-826a55de7419" />
